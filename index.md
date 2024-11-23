@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Freshly Cosmetics ERE"
-tagline: "Asamblea de afectados
+tagline: "Asamblea de afectados"
 ---
 
 Assamblea de los 52 afectados por el ERE de Freshly Cosmetics 
