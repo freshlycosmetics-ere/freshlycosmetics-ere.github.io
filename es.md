@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Freshly ERE"
-subtitle: "Asamblea de afectados"
+description: "Asamblea de afectados"
 ---
 
 [Català](/) | Castellano
