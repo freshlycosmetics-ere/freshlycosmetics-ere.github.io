@@ -2,6 +2,7 @@
 layout: default
 title: "Freshly ERE"
 description: "Asamblea de afectados"
+permalink: /es/
 ---
 
 [Català](/) | Castellano
