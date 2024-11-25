@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Freshly ERE"
-subtitle: "Assemblea d'afectats"
+description: "Assemblea d'afectats"
 ---
 
 Català | [Castellano](/es)
